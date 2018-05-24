@@ -2,8 +2,9 @@
 .nyc_output
 node_modules
 coverage
-dist
-es
-lib
+# removed in order to check in artifacts for github reference
+# dist
+# es
+# lib
 npm-debug.log
 .DS_Store
